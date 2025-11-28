@@ -1,24 +1,31 @@
-# Project Border Bridge: ImmigrationPathfinder AI
+# BorderBridge
 
-**ImmigrationPathfinder AI** is an AI-powered platform that analyzes an immigrant's profile and recommends optimal immigration programs across multiple countries.
+**The AI-Powered Immigration Pathway Engine**
 
-## Overview
-BorderBridge combines AI-powered analysis with human expertise to transform your complex immigration journey into a clear, personalized pathway to success.
+BorderBridge transforms the complex, often overwhelming process of immigration into a clear, data-driven roadmap. By leveraging advanced AI to analyze professional profiles against hundreds of global immigration programs, we empower skilled professionals, entrepreneurs, and families to find their optimal path to a new life.
 
-### Key Features
-- **Multi-Country Analysis**: Analyze 427+ immigration programs across 37 countries simultaneously.
-- **Success Probability Scoring**: Get data-driven success probability scores for each immigration pathway.
-- **Personalized Roadmaps**: Receive step-by-step guidance tailored to your specific situation.
+## 🚀 Vision
+To democratize access to global mobility by replacing weeks of expensive, manual research with instant, accurate, and personalized immigration intelligence.
 
-## Market Potential
-- **Market Size**: $15.9 billion global market (2024) growing at 5.73% CAGR.
-- **Differentiation**: High potential through AI-powered program matching.
-- **Revenue Potential**: Estimated $39.5 million by year 3.
+## ✨ Key Features
+- **Smart Profile Analysis**: Instantly extracts and standardizes professional data from resumes.
+- **Global Program Matching**: Analyzes eligibility across 427+ programs in 37 countries (Starting with Canada).
+- **Success Probability Scoring**: Uses historical data to predict application success rates.
+- **Personalized Roadmaps**: Generates step-by-step action plans tailored to your unique profile.
 
-## Getting Started
+## 🛠️ Tech Stack
+- **Frontend**: React, Vite, Tailwind CSS
+- **Backend**: Node.js, PostgreSQL
+- **AI**: Anthropic Claude API for advanced reasoning
+- **Infrastructure**: Cloud-native, scalable architecture
+
+## 📦 Getting Started
 1. Clone the repository.
 2. Install dependencies: `npm install`.
 3. Start the development server: `npm run dev`.
 
-## License
+## 🤝 Contributing
+We welcome contributions from the community. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## 📄 License
 MIT License - see [LICENSE](LICENSE) for details.
