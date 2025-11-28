@@ -1,0 +1,23 @@
+.not-found-page {
+  padding: 6rem 0;
+  text-align: center;
+}
+
+.not-found-content h1 {
+  font-size: 6rem;
+  color: #2563eb;
+  margin-bottom: 1rem;
+}
+
+.not-found-content h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #1f2937;
+}
+
+.not-found-content p {
+  font-size: 1.25rem;
+  color: #6b7280;
+  margin-bottom: 2rem;
+}
+
